@@ -1,8 +1,6 @@
-# Web_Projects_2020
+# (Web_Projects_2020)[https://astrosite77.me/Web_Projects_2020/]
 
 # Some of the Web Projects Made using Html, Css, vanilla Js and JQuery. Enjoy Share Suggest.... 
-
-## Some Projects...
 
 |  #  |            Project / Code             | Live Demo |
 | :-: | :----------------------------: | :-------: |
