@@ -9,3 +9,4 @@
 | 03  |       [Patatap Clone](https://github.com/Astrogeek77/Web_Projects_2020/tree/main/Project%20Patatap%20Clone)       | [demo](https://astrosite77.me/Web_Projects_2020/Project%20Patatap%20Clone/)
 | 04  |       [Tic-Tac-Toe game](https://github.com/Astrogeek77/Web_Projects_2020/tree/main/Project%20Tic-Tac-Toe%20game)       | [demo](https://astrosite77.me/Web_Projects_2020/Project%20Tic-Tac-Toe%20game/)
 | 05  |       [TodoList](https://github.com/Astrogeek77/Web_Projects_2020/tree/main/Project-%20TodoList)       | [demo](https://astrosite77.me/Web_Projects_2020/Project-%20TodoList/)
+| 06  |       [Score Keeper](https://github.com/Astrogeek77/Web_Projects_2020/tree/main/Score%20Keeper)       | [demo](https://astrosite77.me/Web_Projects_2020/Score%20Keeper/)
